@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5F55a1e051862a732E2F5ca3F64532af9b10aB32",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x5F55a1e051862a732E2F5ca3F64532af9b10aB32",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "NftTestingStick",
+  "SYMBOL": "NTS",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nfttestingstick",
+  "SHOW_BACKGROUND": true
+}
